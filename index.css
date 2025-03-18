@@ -10,9 +10,10 @@ header {
   display: flex;
   height: 80px;
   width: 100%;
-  background-color: peachpuff;
+  background-color: white;
   justify-content: space-around;
   align-items: center;
+  border-bottom: 1px solid #e4e4e4;
 
 }
 
@@ -103,7 +104,6 @@ header {
 .action_container bag {
   height: 22 px;
   width: 22 px;
-  border
 }
 
 .action_container a {
