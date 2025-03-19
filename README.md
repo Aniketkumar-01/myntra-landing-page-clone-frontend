@@ -1,13 +1,12 @@
 # Myntra Landing Page Clone (Frontend)  
 
 ## Description  
-This project is a **frontend clone** of the Myntra landing page, built using **HTML, CSS, and JavaScript**. It replicates the look and feel of Myntra’s homepage to provide a hands-on experience in UI/UX design and frontend development.  
+This project is a **frontend clone** of the Myntra landing page, built using **HTML, and CSS**. It replicates the look of Myntra’s homepage to provide a hands-on experience in UI design and frontend development.  
 
 **Features:**   
-- Interactive navigation bar  
+- navigation bar  
 - Product grid layout  
-- Hover effects and animations  
-- Mobile-friendly interface  
+- Hover effects 
 
 ## Badges  
 ![GitHub repo size](https://img.shields.io/github/repo-size/Aniketkumar-01/myntra-landing-page-clone-frontend)  
@@ -41,13 +40,13 @@ Follow these steps to set up the project locally:
 ## Usage  
 - Open the homepage to browse the UI.  
 - Navigate through different sections using the navbar.  
-- Hover over product images to see effects.  
 
 ## Support  
 If you have any issues or suggestions, feel free to **open an issue** in the repository or contact me at **aniketoff001@gmail.com**.  
 
 ## Roadmap  
 ### 🚀 Future Improvements  
+- Make it fully responsive
 - Add dynamic product filtering  
 - Integrate backend for real-time data  
 - Improve accessibility and SEO  
